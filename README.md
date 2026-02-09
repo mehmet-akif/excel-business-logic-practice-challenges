@@ -29,6 +29,12 @@ This type of work closely mirrors real-world analyst tasks such as data validati
 ---
 
 
+## Screenshot Preview
+![Dashboard](Dashboard1.png)
+
+---
+
+
 ## Use Case
 These challenges reflect tasks commonly encountered by:
 - Data Analysts
